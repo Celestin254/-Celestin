@@ -1,0 +1,60 @@
+
+
+body{
+
+  background-color:#F9D371;
+  margin:0;
+  margin-left: 20px;
+  text-align:center;
+  font-family:'merriweather',serif;
+  font-size: 1em;
+}
+
+.top-container {
+background-color: #C65D7B;
+position: relative;
+padding-top: 100px;
+}
+
+.top-container {
+  background-color: Red;
+  width: 200px;
+  height: 200px;
+
+}
+hr{
+
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width=2px;
+  height:2px;
+  width:5%;
+}
+
+h1  { color: Red;
+   margin-top: 10px;
+   font-family: sacramento;
+   font-size: 1.9rem;
+    }
+
+   h2{
+
+       color: #4FBDBA;
+       font-family:'montserrat',sans-serif;
+
+      }
+      h3{
+
+        color: #4FBDBA;
+         font-family:'montserrat',sans-serif;
+      
+
+         }
+
+
+         img{
+
+             height:150px;
+
+            }
